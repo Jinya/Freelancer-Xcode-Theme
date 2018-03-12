@@ -7,4 +7,4 @@ A pretty Xcode theme based on Midnight theme.
 3. Just enjoy it!
 
 # Preview
-![freelancer-xcode-theme](https://raw.githubusercontent.com/JinyaX/Freelancer-Xcode-Theme/master/theme-preview.jpg)
+![freelancer-xcode-theme](https://raw.githubusercontent.com/JinyaX/Freelancer-Xcode-Theme/master/theme-preview.png)
